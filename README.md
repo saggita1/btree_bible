@@ -14,7 +14,6 @@ Uma implementação de alta performance de Árvore B em Python, projetada para p
 - [Métricas de Performance](#métricas-de-performance)
 - [Como Usar](#como-usar)
 - [Exemplo de Saída](#exemplo-de-saída)
-- [Especificações Técnicas](#especificações-técnicas)
 
 ## 🎯 Visão Geral
 
