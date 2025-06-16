@@ -3,8 +3,7 @@
 Uma implementação de alta performance de Árvore B em Python, projetada para processar e analisar eficientemente o texto completo da Bíblia, realizando operações de inserção, remoção e busca em aproximadamente 800.000 palavras.
 
 **Desenvolvido por**: Ryan Pimentel  
-**Disciplina**: Análise de Algoritmos  
-**Tipo**: Atividade Acadêmica
+**Disciplina**: Análise de Algoritmos-UFRR
 
 ## 📋 Índice
 - [Visão Geral](#visão-geral)
